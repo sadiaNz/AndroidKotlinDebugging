@@ -35,7 +35,8 @@ The following EXTRA features are implemented:
 
 ## Video Demo
 
-gif: https://imgur.com/a/bCCwKsA
+gif: https://imgur.com/a/bCCwKsA.gif
+gif with changes: https://imgur.com/a/VZ8v7Y3.gif
 
 Here's a video / GIF that demos all of the app's implemented features:
 
